@@ -1,1 +1,53 @@
 small dataset
+
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0.] During the period of falling in love, each time that we met and especially when we had not met for a long time.
+[0. 1. 0. 0. 0. 0. 0. 0. 0.] When I was involved in a traffic accident.
+[0. 0. 1. 0. 0. 0. 0. 0. 0.] When I was driving home after several days of hard work, there was a motorist ahead of me who was driving at 50 km/hour and refused, despite his low speed, to let me overtake.
+[0. 0. 0. 1. 0. 0. 0. 0. 0.] When I lost the person who meant the most to me.
+[0. 0. 0. 0. 1. 0. 0. 0. 0.] The time I knocked a deer down - the sight of the animal's injuries and helplessness. The realization that the animal was so badly hurt that it had to be put down, and when the animal screamed at the moment of death.
+[0. 0. 0. 0. 0. 1. 0. 0. 0.] When I did not speak the truth.
+[0. 0. 0. 0. 0. 0. 1. 0. 0.] When I caused problems for somebody because he could not keep the appointed time and this led to various consequences.
+[0. 0. 0. 0. 0. 0. 0. 1. 0.] Opening the gift, I found a plane ticket to my dream destination.
+[0. 0. 0. 0. 0. 0. 0. 0. 1.] The countdown has begun, and I can't wait for the much-anticipated reunion with my best friends.
+[1. 0. 0. 0. 0. 0. 0. 0. 0.] When I got a letter offering me the Summer job that I had applied for.
+[0. 1. 0. 0. 0. 0. 0. 0. 0.] When I was going home alone one night in Paris, and a man came up behind me and asked me if I was not afraid to be out alone so late at night.
+[0. 0. 1. 0. 0. 0. 0. 0. 0.] When I was talking to HIM at a party for the first time in a long while and a friend came and interrupted us, and HE left.
+[0. 0. 0. 1. 0. 0. 0. 0. 0.] When my friends did not ask me to go to a New Year's party with them.
+[0. 0. 0. 0. 1. 0. 0. 0. 0.] When I saw all the very drunk kids (13-14 years old) in town on Walpurgis night.
+[0. 0. 0. 0. 0. 1. 0. 0. 0.] When I could not remember what to say about a presentation task at an accounts meeting.
+[0. 0. 0. 0. 0. 0. 1. 0. 0.] When my uncle and my neighbour came home under police escort.
+[1. 0. 0. 0. 0. 0. 0. 0. 0.] On days when I feel close to my partner and other friends. When I feel at peace with myself and also experience a close contact with people whom I regard greatly.
+[0. 1. 0. 0. 0. 0. 0. 0. 0.] Every time I imagine that someone I love or I could contact a serious illness, even death.
+[0. 0. 1. 0. 0. 0. 0. 0. 0.] When I had been obviously unjustly treated and had no possibility of elucidating this.
+[0. 0. 0. 1. 0. 0. 0. 0. 0.] When I think about the short time that we live and relate it to the periods of my life when I think that I did not use this short time.
+[0. 0. 0. 0. 1. 0. 0. 0. 0.] At a gathering, I found myself involuntarily sitting next to two people who expressed opinions that I considered very low and discriminating.
+[0. 0. 0. 0. 0. 1. 0. 0. 0.] When I realized that I was directing the feelings of discontent with myself at my partner, and this way was trying to put the blame on him instead of sorting out my own feelings.
+[0. 0. 0. 0. 0. 0. 1. 0. 0.] I feel guilty when I realize that I consider material things more important than caring for my relatives. I feel very self-centered.
+[1. 0. 0. 0. 0. 0. 0. 0. 0.] After my girlfriend had taken her exam, we went to her parent's place.
+[0. 1. 0. 0. 0. 0. 0. 0. 0.] When, for the first time, I realized the meaning of death.
+[0. 0. 1. 0. 0. 0. 0. 0. 0.] When a car is overtaking another and I am forced to drive off the road.
+[0. 0. 0. 1. 0. 0. 0. 0. 0.] When I recently thought about the hard work it takes to study and how one wants to try something else. When I read a theoretical book in English that I did not understand.
+[0. 0. 0. 0. 1. 0. 0. 0. 0.] When I found a bristle in the liver paste tube.
+[0. 0. 0. 0. 0. 1. 0. 0. 0.] When I was tired and unmotivated, I shouted at my girlfriend and brought up negative sides of her character which are actually not so important.
+[0. 0. 0. 0. 0. 0. 1. 0. 0.] When I think that I do not study enough. After the weekend, I think that I should have been able to have accomplished something during that time.
+[1. 0. 0. 0. 0. 0. 0. 0. 0.] When I pass an examination that I did not think I did well.
+[0. 1. 0. 0. 0. 0. 0. 0. 0.] When one has arranged to meet someone and that person arrives late, in the meantime, one starts thinking about all that could have gone wrong e.g a traffic accident.
+[0. 0. 1. 0. 0. 0. 0. 0. 0.] When one is unjustly accused of something one has not done.
+[0. 0. 0. 1. 0. 0. 0. 0. 0.] When one's studies seem hopelessly difficult and uninteresting.
+[0. 0. 0. 0. 1. 0. 0. 0. 0.] When one finds out that someone you know is not at all like one had thought, for instance friends who steal and things like that, quite unwarranted.
+[0. 0. 0. 0. 0. 1. 0. 0. 0.] When one has been unjust, stupid towards someone else.
+[0. 0. 0. 0. 0. 0. 1. 0. 0.] When one has neglected or been unjust to a good friend.
+[1. 0. 0. 0. 0. 0. 0. 0. 0.] Passing an exam I did not expect to pass.
+[0. 1. 0. 0. 0. 0. 0. 0. 0.] When I climbed up a tree to pick apples. The angle of the ladder I was on did not enable me to get high enough. This implied that the ladder was not very stable.
+[0. 0. 1. 0. 0. 0. 0. 0. 0.] Friends who torture animals.
+[0. 0. 0. 1. 0. 0. 0. 0. 0.] Same as in anger.
+[0. 0. 0. 0. 1. 0. 0. 0. 0.] Friends who torture animals.
+[0. 0. 0. 0. 0. 1. 0. 0. 0.] Same as above - friends who torture animals.
+[0. 0. 0. 0. 0. 0. 1. 0. 0.] When excuses are necessary and I get out of doing it myself.
+[1. 0. 0. 0. 0. 0. 0. 0. 0.] When I had my children.
+[0. 1. 0. 0. 0. 0. 0. 0. 0.] When my 2-year-old son climbed up and sat on the 7th-floor balcony with his legs hanging out. He was holding on tightly to the upper railing of the balcony but he could have easily lost his balance when he sat down.
+
+
+
+
